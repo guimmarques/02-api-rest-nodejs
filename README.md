@@ -33,21 +33,21 @@ This project uses the following libs:
 
 ## 💻 Project
 
-Simple API for manage bank account transactions using Fastify. All the business rules are described above. This project was developed during RocketSeat's Ignite React course.
+Simple API for manage bank account transactions using Fastify. All the business rules are described above. This project was developed during RocketSeat's Ignite Node course.
 
 ## 🔖 Business Rules
 
 - **RF** => Functional requirements
 - **RN** => Business rule
 - **RNF** => Non-functional requirements
-#### RF
+#### **RF**
 
  - [x] User should be able to create a new transaction;
  - [X] User should be able to get account balance;
  - [x] User should be able to list all transactions;
  - [x] User should be able to get an unique transaction;
 
-#### RN
+#### **RN**
 
  - [x] A transaction should be credit that increse total amount or debit that decrease;
  - [x] Should be able to identify user of each api requisition;
