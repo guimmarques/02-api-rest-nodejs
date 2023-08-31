@@ -1,5 +1,5 @@
 <h1 align="center">
-  RENTALX
+  Simple Bank Transactions API
 </h1>
 
 <p align="center">
